@@ -1,0 +1,84 @@
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\WTCoro AW.dll.config
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\WTCoro AW.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\WTCoro AW.pdb
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\csc.exe
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\csc.exe.config
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\csc.rsp
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\csi.exe
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\csi.exe.config
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\csi.rsp
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.CodeAnalysis.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.CSharp.Core.targets
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.Managed.Core.targets
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.AppContext.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Collections.Immutable.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Console.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Diagnostics.StackTrace.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.IO.Compression.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.IO.FileSystem.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.IO.Pipes.AccessControl.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.IO.Pipes.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Reflection.Metadata.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Security.AccessControl.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Security.Claims.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Security.Principal.Windows.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Text.Encoding.CodePages.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.ValueTuple.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Xml.ReaderWriter.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Xml.XmlDocument.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Xml.XPath.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\System.Xml.XPath.XDocument.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\vbc.exe
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\vbc.exe.config
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\vbc.rsp
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\VBCSCompiler.exe
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\roslyn\VBCSCompiler.exe.config
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Antlr3.Runtime.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\EntityFramework.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\EntityFramework.SqlServer.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Microsoft.Web.Infrastructure.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Newtonsoft.Json.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Diagnostics.DiagnosticSource.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Helpers.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Mvc.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Optimization.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Razor.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.WebPages.Deployment.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.WebPages.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.WebPages.Razor.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\WebGrease.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\EntityFramework.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\EntityFramework.SqlServer.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Helpers.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Mvc.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Optimization.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.Razor.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.WebPages.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.WebPages.Deployment.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Web.WebPages.Razor.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Newtonsoft.Json.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Antlr3.Runtime.pdb
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\System.Diagnostics.DiagnosticSource.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\obj\Debug\WTCoro AW.csproj.CoreCompileInputs.cache
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\obj\Debug\WTCoro AW.csproj.CopyComplete
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\obj\Debug\WTCoro AW.dll
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\obj\Debug\WTCoro AW.pdb
+K:\Data\Cheryl Fredericks\WTCoro\WTCoro AW\obj\Debug\WTCoro AW.csprojAssemblyReference.cache
